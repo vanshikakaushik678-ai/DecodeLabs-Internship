@@ -1,0 +1,60 @@
+
+[07:00 PM]
+You: hello
+AI: Hi! How can I help you today?
+--------------------
+
+[11:22 AM]
+You: hello
+AI: Hello Vanshika 👋
+--------------------
+
+[11:23 AM]
+You: how are you
+AI: I am doing great 😊
+--------------------
+
+[11:23 AM]
+You: my name is vanshika you can call me dhvani
+AI: Hello Vanshika 👋
+--------------------
+
+[01:20 PM]
+You: hello
+AI: Hey there 😊
+--------------------
+
+[01:20 PM]
+You: good morning
+AI: Tell me more 😊
+--------------------
+
+[01:20 PM]
+You: how are you
+AI: I am doing great 😊
+--------------------
+
+[01:20 PM]
+You: hello
+AI: Hi! How can I help you today?
+--------------------
+
+[01:21 PM]
+You: how are you
+AI: I am doing great 😊
+--------------------
+
+[01:21 PM]
+You: what is ai
+AI: AI stands for Artificial Intelligence 🧠
+--------------------
+
+[01:21 PM]
+You: you can call me vanshi my name is vanshika
+AI: Hey there 😊
+--------------------
+
+[01:21 PM]
+You: what is my name
+AI: Can you explain differently?
+--------------------

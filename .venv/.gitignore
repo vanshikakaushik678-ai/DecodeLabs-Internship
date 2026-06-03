@@ -1,0 +1,15 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# virtual environment
+venv/
+
+# logs / data
+chat_history.txt
+
+# optional db file
+saas_db.json
